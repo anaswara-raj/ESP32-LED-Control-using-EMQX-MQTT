@@ -49,12 +49,18 @@ Messages:
 ```text id="0j5j1e"
 ON   -> LED ON
 OFF  -> LED OFF
+```
+
+---
 
 ## Libraries Used
 
 ```cpp id="jlwm3q"
 #include <WiFi.h>
 #include <PubSubClient.h>
+```
+
+---
 
 ## Setup Steps
 
@@ -128,8 +134,5 @@ OFF
 * Remote switching
 * IoT learning projects
 
----
 
-## Author
 
-Anaswara Raj
